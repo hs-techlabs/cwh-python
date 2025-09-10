@@ -1,0 +1,11 @@
+# a=(1,1,1,432,54,643,False,"himanshu")
+# print(a)
+# no = a.count(1)
+# print(no)
+# i=a.index(54)
+# print(i)
+# print(len(a))
+
+a=(1,1,1,432,54,643,False)
+print(min(a))
+print(max(a))
