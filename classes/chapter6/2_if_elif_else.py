@@ -12,4 +12,4 @@ elif(a==0):
 else:
     print("you are below the age of consent") 
 
-print("end of program")
+print("Thank you for using our program  :)")
